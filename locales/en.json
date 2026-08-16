@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "brands": "Brands",
+    "industries": "Industries",
+    "catalogue": "Catalogue",
+    "contact": "Contact",
+    "enquireNow": "Enquire Now"
+  },
+  "hero": {
+    "slide1": {
+      "tag": "Pneumatic Systems",
+      "heading": "Industrial Solutions. Trusted Global Brands.",
+      "sub": "ISO 9001:2015 certified supplier for the UAE, Middle East, Central Asia and East Africa.",
+      "cta1": "Explore Products",
+      "cta2": "Send an Enquiry"
+    },
+    "slide2": {
+      "tag": "Hydraulic & Mechanical",
+      "heading": "Complete Range of Industrial Equipment",
+      "sub": "From pneumatics to gearboxes — everything your operation needs, sourced from the world's leading brands.",
+      "cta1": "View Catalogue",
+      "cta2": "Contact Us"
+    },
+    "slide3": {
+      "tag": "Conveyor & Bakery",
+      "heading": "Specialized Equipment for Every Sector",
+      "sub": "Regina conveyor chains, bakery maintenance parts, electrical instrumentation and more.",
+      "cta1": "View Products",
+      "cta2": "Get a Quote"
+    }
+  },
+  "company": {
+    "tag": "About AL FALAK",
+    "heading": "UAE's Trusted Industrial Supplier",
+    "sub": "Pneumatic | Hydraulic | Electrical | Mechanical",
+    "learnMore": "Learn More"
+  },
+  "categories": {
+    "tag": "Product Categories",
+    "heading": "What We Supply",
+    "viewAll": "View All Products",
+    "viewProducts": "View Products"
+  },
+  "featured": {
+    "tag": "Featured Products",
+    "heading": "Selected from Our Catalogue",
+    "viewAll": "View All",
+    "enquire": "Enquire",
+    "viewDetails": "View Details"
+  },
+  "brands": {
+    "tag": "Global Brands",
+    "heading": "Our Brand Partners",
+    "sub": "We supply genuine equipment from the world's leading industrial manufacturers.",
+    "viewAll": "View All Brands"
+  },
+  "industries": {
+    "tag": "Industries & Applications",
+    "heading": "Sectors We Serve",
+    "sub": "Supplying specialized equipment across key industrial sectors.",
+    "learnMore": "Learn More"
+  },
+  "why": {
+    "tag": "Why AL FALAK",
+    "heading": "Your Industrial Supply Partner",
+    "points": [
+      { "icon": "shield", "title": "ISO 9001:2015 Certified", "desc": "Committed to quality management standards across all our operations." },
+      { "icon": "globe", "title": "Global Brand Partners", "desc": "Authorized supplier for leading international industrial brands." },
+      { "icon": "clock", "title": "24/7 Support", "desc": "Around-the-clock support to meet customer demand and needs." },
+      { "icon": "map", "title": "Regional Reach", "desc": "Serving the UAE, Middle East, Central Asia and East Africa." }
+    ]
+  },
+  "catalogue": {
+    "tag": "Official Catalogue",
+    "heading": "Our Product Catalogue",
+    "sub": "Browse our complete 23-page technical product catalogue.",
+    "viewCatalogue": "View Full Catalogue",
+    "download": "Download PDF",
+    "pageOf": "Page {current} of {total}"
+  },
+  "enquiry": {
+    "tag": "Get in Touch",
+    "heading": "Request a Quote or Send an Enquiry",
+    "sub": "Our team is ready to help with your industrial equipment requirements.",
+    "cta": "Send an Enquiry",
+    "phone": "Call Us",
+    "email": "Email Us"
+  },
+  "contact": {
+    "name": "Full Name",
+    "company": "Company",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "product": "Product / Requirement",
+    "message": "Message",
+    "submit": "Send Enquiry",
+    "submitting": "Sending...",
+    "success": "Thank you! We will be in touch shortly.",
+    "error": "Something went wrong. Please try again."
+  },
+  "footer": {
+    "description": "ISO 9001:2015 certified supplier for Pneumatic, Hydraulic, Electrical, and Mechanical equipment.",
+    "quickLinks": "Quick Links",
+    "products": "Products",
+    "contactUs": "Contact Us",
+    "followUs": "Follow Us",
+    "rights": "© 2026 AL FALAK. All Rights Reserved.",
+    "developer": "Designed & Developed by ZenCro Digital"
+  },
+  "common": {
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "back": "Back",
+    "close": "Close",
+    "loading": "Loading...",
+    "enquireNow": "Enquire Now",
+    "downloadPDF": "Download PDF",
+    "openCatalogue": "Open Catalogue",
+    "relatedProducts": "Related Products"
+  }
+}

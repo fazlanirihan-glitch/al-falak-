@@ -1,0 +1,289 @@
+==============================
+PAGE: Sample Page (http://www.alfalakuae.com/sample-page/)
+==============================
+This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)
+...or something like this:
+The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.
+As a new WordPress user, you should go to  your dashboard  to delete this page and create new pages for your content. Have fun!
+
+==============================
+PAGE: Privacy Policy (http://www.alfalakuae.com/?page_id=3)
+==============================
+Who we are
+Suggested text:  Our website address is: http://a9l.780.mytemp.website.
+Comments
+Suggested text:  When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+Media
+Suggested text:  If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+Cookies
+Suggested text:  If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+Embedded content from other websites
+Suggested text:  Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+Who we share your data with
+Suggested text:  If you request a password reset, your IP address will be included in the reset email.
+How long we retain your data
+Suggested text:  If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+What rights you have over your data
+Suggested text:  If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+Where your data is sent
+Suggested text:  Visitor comments may be checked through an automated spam detection service.
+
+==============================
+PAGE: Home (http://www.alfalakuae.com/)
+==============================
+Welcome To AL FALAK Industrial Factories Machinery Equip  &amp; Parts Tr L.L.C S.P
+AL FALAK INDUSTRIAL EQUIP. TR. LLC., certified with the latest quality management system ISO 9001:2015, is a major supplier and stockiest for Pneumatic, Electrical, Mechanical,plumbing and Hydraulic equipments in switchgear applications, Industrial Automation Applications, water treatment plant, oil field marine and other industrial equipments for the UAE, Middle East, Central Asia and East Africa.
+Our Expertise: Operating from our regional offices in UAE, We pride ourselves in providing with great support and services to the industries for a complete range of highly qualified equipment, parts, accessories and other engineering solutions.
+Do you have any questions?
+WHY CHOOSE US?
+Few of our Products
+Conveyor Chain
+Diaphragm Pump (AODD)
+Gas Springs
+Hydraulic
+OUR MISSION
+To be the premier supplier of cutting-edge machinery and equipment, driving the advancement of industries by providing solutions that enhance operational efficiency, sustainability, and long-term success.
+OUR VISION
+Our mission is to provide businesses with reliable and innovative machinery solutions that not only meet their immediate needs but also support their growth and evolution. We are dedicated to delivering exceptional quality, unmatched customer service, and fostering lasting relationships built on trust and integrity.
+Our Hotlisting Products
+Pneumatic Fittings
+Air Preparation Units
+AZ Flexible Hoses
+VUOTOTECNICA - Vacuum
+They can easily pump from clean, light viscosity fluids to corrosive, abrasive medium viscosity fluids and can transfer large particles without damage.
+A distinctive approach towards many successful industries in automation, medical technology, Aviation industry, Furniture manufacturing and many other sectors.
+Our Client's Testimonial
+I had an excellent experience with  Al Falak Industrial Equipment Company ! Their wide range of machinery tools and equipment exceeded my expectations in terms of quality and performance. The team was extremely knowledgeable, providing detailed guidance on the best products for my needs. The equipment we purchased, including the Heavy-Duty Industrial Drill Press, has been running smoothly, with outstanding efficiency and durability.
+Absolutely fantastic experience with  Al Falak Industrial Equipment Company ! From the moment I inquired about their machinery, the staff provided exceptional customer service, guiding me through the entire process. The equipment we purchased, including high-performance industrial tools, has been incredibly reliable and efficient, significantly enhancing our operations. What sets Al Falak apart is their attention to detail and commitment to quality.
+I couldn’t be more satisfied with my experience at  Al Falak Industrial Equipment Company ! Their range of machinery is top-notch, and the equipment we purchased has proven to be durable, efficient, and perfect for our needs. The quality of the tools is unmatched, and they have made a noticeable improvement in our daily operations.The customer service team went above and beyond, providing helpful recommendations and ensuring a smooth buying process.
+Our Brand Partners
+Pneumatics
+[lgxlogoslider id="358"]
+Hydraulics
+[gslogo id=51]
+Electricals
+[logocarousel id="412"]
+
+==============================
+PAGE: About Us (http://www.alfalakuae.com/about-us/)
+==============================
+About Us
+AL FALAK INDUSTRIAL EQUIP. TR. LLC., certified with the latest quality management system ISO 9001:2015, is a major supplier and stockiest for Pneumatic, Electrical, Mechanical,plumbing and Hydraulic equipments in switchgear applications, Industrial Automation Applications, water treatment plant, oil field marine and other industrial equipments for the UAE, Middle East, Central Asia and East Africa.
+Our Expertise: Operating from our regional offices in UAE, We pride ourselves in providing with great support and services to the industries for a complete range of highly qualified equipment, parts, accessories and other engineering solutions.
+With the attentiveness of our highly experienced staff, our innovative management and dedicated product knowledge in engineering and procurement sector put us to lead the industry, to meet customer demand and needs around the clock under 24/7 support and to emphasis our dedication and quality service.
+As a diversified organisation with fast growth and well-resourced company, which strive for excellence in customer satisfaction and is a leader in supplying equipment and material to the industries. We at Al Falak have one priority -” our customer and their complete satisfaction”. We prove this by offering quick response times for customer inquiries, getting exactly what required with focused trust, honesty, integrity, and service-oriented attitude.
+Our Remarkable position in the market doesn’t end up only in providing the products, but also with a strong and ongoing long-term beneficial relationship with the number of respected local and international companies, throughout the world, helping you to achieve your main objectives of time performance and cost-effectiveness.
+OUR MISSION
+To be the premier supplier of cutting-edge machinery and equipment, driving the advancement of industries by providing solutions that enhance operational efficiency, sustainability, and long-term success.
+OUR VISION
+Our mission is to provide businesses with reliable and innovative machinery solutions that not only meet their immediate needs but also support their growth and evolution. We are dedicated to delivering exceptional quality, unmatched customer service, and fostering lasting relationships built on trust and integrity.
+OUR QUALITY POLICY
+M/s. AL FALAK INDUSTRIAL EQUIP. TR. LLC is committed to provision of Services related to Trading of Pneumatic, Hydraulic, Mechanical &amp; Electrical Equipments by providing necessary resources, training, systems and processes to the employees.
+The Company intends to focus on supplying defect-free products, making timely delivery, increasing the number of customers and Sales Turnover and cost optimization in order to achieve Customer Satisfaction and exceed Customer Expectation by promoting Continual Improvement and maintaining and reviewing ISO 9001:2015 Quality Management System and complying with the Statutory and Legal requirements.
+In order to achieve the objectives of this policy, a comprehensive Quality Management System has been developed integrating all the management functions and operations, which calls for participation of all employees and continual improvement of the organization in all functional areas.
+
+==============================
+PAGE: Shop (http://www.alfalakuae.com/shop/)
+==============================
+
+
+==============================
+PAGE: Cart (http://www.alfalakuae.com/cart/)
+==============================
+You may be interested in…
+Your cart is currently empty!
+New in store
+
+==============================
+PAGE: Refund and Returns Policy (http://www.alfalakuae.com/?page_id=115)
+==============================
+This is a sample page.
+Overview
+Our refund and returns policy lasts 30 days. If 30 days have passed since your purchase, we can’t offer you a full refund or exchange.
+To be eligible for a return, your item must be unused and in the same condition that you received it. It must also be in the original packaging.
+Several types of goods are exempt from being returned. Perishable goods such as food, flowers, newspapers or magazines cannot be returned. We also do not accept products that are intimate or sanitary goods, hazardous materials, or flammable liquids or gases.
+Additional non-returnable items:
+Gift cards
+Downloadable software products
+Some health and personal care items
+To complete your return, we require a receipt or proof of purchase.
+Please do not send your purchase back to the manufacturer.
+There are certain situations where only partial refunds are granted:
+Book with obvious signs of use
+CD, DVD, VHS tape, software, video game, cassette tape, or vinyl record that has been opened.
+Any item not in its original condition, is damaged or missing parts for reasons not due to our error.
+Any item that is returned more than 30 days after delivery
+Refunds
+Once your return is received and inspected, we will send you an email to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund.
+If you are approved, then your refund will be processed, and a credit will automatically be applied to your credit card or original method of payment, within a certain amount of days.
+Late or missing refunds
+If you haven’t received a refund yet, first check your bank account again.
+Then contact your credit card company, it may take some time before your refund is officially posted.
+Next contact your bank. There is often some processing time before a refund is posted.
+If you’ve done all of this and you still have not received your refund yet, please contact us at {email address}.
+Sale items
+Only regular priced items may be refunded. Sale items cannot be refunded.
+Exchanges
+We only replace items if they are defective or damaged. If you need to exchange it for the same item, send us an email at {email address} and send your item to: {physical address}.
+Gifts
+If the item was marked as a gift when purchased and shipped directly to you, you’ll receive a gift credit for the value of your return. Once the returned item is received, a gift certificate will be mailed to you.
+If the item wasn’t marked as a gift when purchased, or the gift giver had the order shipped to themselves to give to you later, we will send a refund to the gift giver and they will find out about your return.
+Shipping returns
+To return your product, you should mail your product to: {physical address}.
+You will be responsible for paying for your own shipping costs for returning your item. Shipping costs are non-refundable. If you receive a refund, the cost of return shipping will be deducted from your refund.
+Depending on where you live, the time it may take for your exchanged product to reach you may vary.
+If you are returning more expensive items, you may consider using a trackable shipping service or purchasing shipping insurance. We don’t guarantee that we will receive your returned item.
+Need help?
+Contact us at {email} for questions related to refunds and returns.
+
+==============================
+PAGE: Product (http://www.alfalakuae.com/?page_id=195)
+==============================
+
+
+==============================
+PAGE: Hello world! (http://www.alfalakuae.com/uncategorized/hello-world/)
+==============================
+Welcome to WordPress. This is your first post. Edit or delete it, then start writing!
+
+==============================
+PAGE: Checkout (http://www.alfalakuae.com/checkout/)
+==============================
+
+
+==============================
+PAGE: My account (http://www.alfalakuae.com/my-account/)
+==============================
+[woocommerce_my_account]
+
+==============================
+PAGE: VUOTOTECNICA - Vacuum Suction Products (http://www.alfalakuae.com/vuototecnica-vacuum-suction-products/)
+==============================
+VUOTOTECNICA - Vacuum Suction Products
+Description:
+Vacuum cups are an integral component used in lifting, handling and manipulating objects. They are also known suction cups or vacuum grippers and are used in industrial and mechanical process. It is employed across various industries.  VUOTOTECNICA  vacuum cups are durable and resistant to wear and tear offering extended service life and reliability. They are available in of sizes and diameter that accommodates different applications.
+It is important to select the right size to maintain optimal air flow and pressure levels in the industrial sensors. The inherent flexibility also allows easy writing without thinking during installation which enhances convenience. They can be easily procured from reputed  Vacuum Cups manufacturer. This guarantees dependable performance of these  VUOTOTECNICA  vacuum cups in diverse conditions. Compatibility is also of utmost importance, especially inclusive environment. This helps in safeguarding against explosion and promotes longevity. Installation of  CKSEnergy Chain  should be done adhering to  VacuumCups Supplier guidelines. Use of correct fittings and connectors are essential to minimise the risk of explosion and preserving the system integrity.
+It is important to opt for regular maintenance and inspection to ensure optimal functionality and producing any chance of system failure or unplanned downtime. For quality  VUOTOTECNICA in Dubai UAE Contact us for VUOTOTECNICA and you can get quality vacuum cups. It offers a dependable means of functioning and understanding requirements helps in operating efficient automation system across different industries.
+
+==============================
+PAGE: Festo Vacuum Suction (http://www.alfalakuae.com/festo-vacuum-suction/)
+==============================
+Festo Vacuum Suction
+Description:
+Wide variety of suction cups and grippers with different materials and sizes of suction cups and suction gripper system with different suction cup holders, angle and height compensators and filters including Vacuum generators according to the various performance categories.
+
+==============================
+PAGE: Vacuum Equipment (http://www.alfalakuae.com/vacuum-equipment/)
+==============================
+Vacuum Equipment (Vacuum Generators/Vacuum Suction Cups/Other)
+Description:
+Vacuum Equipment (Vacuum Generators/Vacuum Suction Cups/Other)
+Vacuum Pad
+Vacuum Ejector &amp; Pump
+Air Suction Filter
+Vacuum Saving Valves
+Vacuum Flow
+Vacuum Switch
+
+==============================
+PAGE: Piab Vacuum (http://www.alfalakuae.com/piab-vacuum-2/)
+==============================
+Piab Vacuum
+Description:
+Suction cups and soft grippers offer endless possibilities for your lifting and gripping needs. You can, for example, handle board materials or food, open bags, pick electronic components, label and hold objects
+Piab vacuum pumps/vacuum generators are predominately based on the patented COAX®technology. COAX® is an advanced solution for creating vacuum with compressed air.
+
+==============================
+PAGE: Pneumatic Valves (http://www.alfalakuae.com/pneumatic-valves/)
+==============================
+Pneumatic Valves
+Description:
+AZ Manufacture different valves in Italy:
+Poppet Microvalves, Mechanically Operated Valves, Manually Operated Valves, Pneumatically Operated Valves, Electro-Pneumatic Actuated Valves, Electropilots &amp; Coils, Subbases, Foot Valves, Integrated Elements, Multiconnections, Auxilliary Valves and Accessories.
+
+==============================
+PAGE: Pneumatic Cylinders (http://www.alfalakuae.com/pneumatic-cylinders/)
+==============================
+Pneumatic Cylinders
+Description:
+Pneumatic cylinders, which is also recognised as  Round Cylinders an integral component in the pneumatic systems. It is employed across various industries.  VDMA 6431-15552 ISO Cylinders  is crafted from robust materials like nylon, rubber or polyurethanes. These materials are durable and resistant to wear and tear offering extended service life and reliability.They are available in diferent sizes and diameter that accommodates different applications. It is important to select the right size of  Compact Cylinders  to maintain optimal air flow and pressure levels in the pneumatic system.
+The inherent flexibility also allows easy writing without thinking during installation which enhances convenience.Understanding the  Short Stroke Cylinders  s also important as it ensures performance throughout the life cycle, it is categorised bye it’s pressure handling capacity which is imperative to match with the cylinder’s pressure rating along with the systems requirement, ensuring both safety and efficiency. it is important to consider the operational temperature range as different materials are engineered to withstand wearing temperature extremes.
+This guarantees dependable performance in diverse conditions.  Twin Rod Cylinders  compatibility is also of utmost importance, especially inclusive environment. This helps in safeguarding against material degradation and promotes longevity. Installation procedures should be done adhering to the guidelines of  Pneumatic Cylinders suppliers in Dubai UAE . Use of correct fittings and connectors are essential to minimise the risk of leaks and preserving the system integrity.It is important to opt for regular maintenance and inspection to ensure optimal functionality and producing any chance of system failure or unplanned downtime.  Pneumatic Cylinders suppliers in Dubai UAE  plays an important role in the supply of pneumatic system. It offers a dependable means of transporting compressed air and gases and understanding requirements helps in operating efficient pneumatic system across different industries.
+
+==============================
+PAGE: Vacuum Valves (http://www.alfalakuae.com/vacuum-valves/)
+==============================
+Vacuum Valves &amp; Vacuum Generators
+Description:
+AZ Manufacture various type of Vacuum Valves &amp; Vacuum Generators:
+Vacuum Sprayers , Vacuum Generators
+
+==============================
+PAGE: Air Preparation Units (http://www.alfalakuae.com/air-preparation-units/)
+==============================
+Air Preparation Units
+Description:
+Best Quality of AZ Air Preparation Units:
+Filter Unit, Lubricators, Pressure Regulators, Filter-regulators, FR+L Group, FRL Air Handling Units.
+
+==============================
+PAGE: Pneumatic Fittings (http://www.alfalakuae.com/pneumatic-fittings/)
+==============================
+Pneumatic Fittings
+Description:
+Pneumatic fittings are components used to connect sections of pipe, tube, or hose in a pneumatic system. They are crucial for the efficient functioning of pneumatic systems, ensuring that air or gas flows properly through the system with minimal leaks and pressure loss.
+
+==============================
+PAGE: View More (http://www.alfalakuae.com/view-more/)
+==============================
+
+
+==============================
+PAGE: AZ Flexible Hoses (http://www.alfalakuae.com/view-more/az-flexible-hoses/)
+==============================
+AZ Flexible Hoses
+Description:
+AZ Flexible Hoses are designed to provide exceptional performance in a variety of industrial and commercial applications. Built with premium materials, these hoses ensure flexibility, durability, and resistance to wear and tear, making them ideal for transferring fluids, gases, and other materials. Whether you're in manufacturing, construction, or any industry requiring reliable hose solutions, AZ Flexible Hoses offer the perfect balance of flexibility and strength.
+
+==============================
+PAGE: SW Pneumatic Cylinders (http://www.alfalakuae.com/view-more/sw-pneumatic-cylinders/)
+==============================
+SW Pneumatic Cylinders
+Description:
+SW Pneumatic Cylinders are engineered to deliver precise linear motion with minimal friction, offering a high level of efficiency for automation and industrial processes. Known for their robust construction and reliable performance, these cylinders are essential for powering machinery across various sectors. Whether you’re working in manufacturing, automotive, or packaging, SW Pneumatic Cylinders are designed to meet the exact demands of your application.
+
+==============================
+PAGE: SW High Pressure (http://www.alfalakuae.com/view-more/sw-high-pressure/)
+==============================
+SW High Pressure
+Description:
+SW High Pressure Equipment is designed to handle the most demanding applications where high pressure and reliability are crucial. With advanced engineering and top-grade materials, these components are built to endure extreme pressures while maintaining optimal performance and safety. Ideal for industries such as oil and gas, chemical processing, and high-pressure testing, SW High Pressure Equipment offers unparalleled durability and efficiency.
+
+==============================
+PAGE: SW Solenoid Valves (http://www.alfalakuae.com/view-more/sw-solenoid-valves/)
+==============================
+SW Solenoid Valves
+Description:
+Wide variety of suction cups and grippers with different materials and sizes of suction cups and suction gripper system with different suction cup holders, angle and height compensators and filters including Vacuum generators according to the various performance categories.
+
+==============================
+PAGE: SW Highpressure 2/2way (http://www.alfalakuae.com/view-more/sw-highpressure-2-2way/)
+==============================
+SW Highpressure 2/2way
+Description:
+SW High Pressure 2/2 Way Solenoid Valves are engineered to offer robust control in high-pressure applications, providing reliable operation and precise fluid management. These valves are designed to handle extreme pressures while ensuring consistent performance and durability. Perfect for industries that demand dependable control and high performance, SW High Pressure 2/2 Way Solenoid Valves are an essential component in advanced fluid systems.
+
+==============================
+PAGE: SW Angle Seat Valves (http://www.alfalakuae.com/view-more/sw-angle-seat-valves/)
+==============================
+SW Angle Seat Valves
+Description:
+SW Angle Seat Valves are designed to deliver precise control and reliable performance in various industrial and commercial applications. Featuring a unique angle seat design, these valves are ideal for handling high-pressure fluids and ensuring smooth, efficient flow management. Built with high-quality materials and advanced engineering, SW Angle Seat Valves are perfect for industries requiring robust and accurate control solutions.
+
