@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { locales, getDictionary, type Locale } from "@/lib/i18n";
 import HeroCarousel from "@/components/home/HeroCarousel";
+import TrustStats from "@/components/home/TrustStats";
 import CompanyIntro from "@/components/home/CompanyIntro";
 import ProductCategories from "@/components/home/ProductCategories";
 import FeaturedProducts from "@/components/home/FeaturedProducts";
@@ -27,6 +28,7 @@ export default async function HomePage({
   return (
     <>
       <HeroCarousel locale={locale} dict={dict} />
+      <TrustStats locale={locale} dict={dict} />
       <CompanyIntro locale={locale} dict={dict} />
       <ProductCategories locale={locale} dict={dict} />
       <FeaturedProducts locale={locale} dict={dict} />
