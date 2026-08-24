@@ -83,7 +83,7 @@ export default function CatalogueViewer({ locale, dict }: CatalogueViewerProps) 
               <a
                 href="/Al_Falak_Catalog.pdf"
                 download="AL_FALAK_Official_Catalog.pdf"
-                className="btn-primary text-xs sm:text-sm py-2.5 px-5 shadow-sm inline-flex items-center gap-2"
+                className="btn-catalogue text-xs sm:text-sm py-2.5 px-5 shadow-sm inline-flex items-center gap-2"
               >
                 <Download className="w-4 h-4" />
                 <span>{isRtl ? "تحميل نسخة PDF (27 MB)" : "Download PDF Catalogue (27 MB)"}</span>
@@ -322,7 +322,8 @@ export default function CatalogueViewer({ locale, dict }: CatalogueViewerProps) 
                 href="/Al_Falak_Catalog.pdf"
                 download
                 onClick={(e) => e.stopPropagation()}
-                className="btn-white text-xs py-1.5 px-3"
+                className="btn-catalogue text-xs py-1.5 px-3"
+                style={{ animation: "none" }}
               >
                 <Download className="w-3.5 h-3.5" />
                 <span>PDF</span>

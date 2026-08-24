@@ -51,7 +51,7 @@ export default function EnquiryCTA({ locale, dict }: EnquiryCTAProps) {
               href={company.whatsappUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="px-5 py-3 rounded bg-[#25D366] hover:bg-[#1EBE5D] text-white font-bold text-sm sm:text-base transition-all shadow-md inline-flex items-center justify-center gap-2"
+              className="btn-whatsapp"
               title="Chat with AL FALAK on WhatsApp"
             >
               <MessageSquare className="w-4 h-4" />

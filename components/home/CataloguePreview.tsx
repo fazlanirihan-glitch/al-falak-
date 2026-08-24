@@ -32,16 +32,19 @@ export default function CataloguePreview({ locale, dict }: CataloguePreviewProps
           <div className={`flex flex-col sm:flex-row gap-3 shrink-0 ${isRtl ? "items-end" : "items-start sm:items-center"}`}>
             <Link
               href={`/${locale}/catalogue`}
-              className="btn-primary text-sm"
+              className="btn-catalogue text-sm"
             >
+              <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
               {dict.catalogue.viewCatalogue}
             </Link>
             <a
               href="/Al_Falak_Catalog.pdf"
               target="_blank"
               rel="noopener noreferrer"
-              className="btn-secondary text-sm"
+              className="btn-catalogue text-sm"
+              style={{ animationDelay: "1.5s" }}
             >
+              <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
               {dict.catalogue.download}
             </a>
           </div>
